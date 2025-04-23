@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Modern Research Data Portal",
+        "title": "Modern Research Data Portal - for me",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
@@ -17,8 +17,8 @@
           "client_id": "75adeaf9-a2b6-4368-843d-fe5cb5fc805e"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "fe2feb64-4ac0-4a40-ba90-94b99d06dd2c",
+          "path": "/"
         }
       }
     }
